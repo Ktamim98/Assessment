@@ -1,4 +1,4 @@
-# Assessment
+# iOS Widget
 
 ## CalendarWidget
 CalendarWidget is an iOS application widget (system large) that provides weather information and a customized calendar interface for your device.
