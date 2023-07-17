@@ -2,6 +2,8 @@
 
 ## CalendarWidget
 CalendarWidget is an iOS application widget (system large) that provides weather information and a customized calendar interface for your device.
+#### Figma File:
+https://www.figma.com/file/usC6gYtwhR313qJMU2XAGk/Widget?type=design&node-id=0%3A1&mode=design&t=yF5hwxrHIuprwtab-1
 
 ### Screenshots
 
